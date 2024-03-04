@@ -169,7 +169,7 @@ def main():
             excluirImpressora()  # Chama a função para excluir impressoras
         elif opcao == '6':
             print("")
-            print("2024-02-27 --- Versão 1.1 --- Eder Castro & Everton Souza")
+            print("2024-02-27 --- Versão 1.1 --- Eder Castro")
             print("")
             input("Pressione ENTER para encerrar o programa")
             break
