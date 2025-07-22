@@ -1,3 +1,4 @@
+#commit from VSCode on July-22-2025
 #invoca os módulos necessários
 import os                                                                      #para operações de BASH
 import requests                                                                #para fazer requisições a sítios da internet
